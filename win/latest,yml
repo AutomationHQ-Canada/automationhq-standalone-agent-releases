@@ -1,0 +1,5 @@
+version: 5.2.1
+files:
+  - url: https://standalones.automationhq.ai/ui/test/automationhq-5.2.1-setup.exe
+path: automationhq-5.2.1-setup.exe
+releaseDate: 23/09/2025
